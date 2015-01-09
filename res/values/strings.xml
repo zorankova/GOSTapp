@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GOSTapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_open">Open</string>
+    <string name="action_new">New</string>
+    <string name="title_section1">File</string>
+    <string name="title_section2">Content</string>
+    <string name="title_section3">Files</string>
+    <string name="description_textview">Description:</string>
+    <string name="archive_name">Filename:</string>
+    <string name="savein_textview">Export location:</string>
+    <string name="savein_button">Browse</string>
+    <string name="key_textview">Key</string>
+    <string name="key_button">Browse</string>
+    <string name="key_button_new">Create</string>
+    <string name="button_save">Do it!</string>
+    <string name="button_open">Open</string>
+    <string name="button_description_edit">Edit</string>
+    <string name="action_new_keys">New</string>
+    <string name="action_save_keys">Save</string>
+    <string name="create_new_key">_Create new keyfile_</string>
+
+
+
+    <string name="title_activity_keys">KeysActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_job">JobActivity</string>
+    <string name="create_archive">Create</string>
+    <string name="open_archive">Open</string>
+    <string name="file_textview">Files:</string>
+    <string name="action_add">Add file</string>
+    <string name="job_stop">Stop</string>
+    <string name="job_close">Close</string>
+    <string name="job_done">Done!</string>
+    <string name="job_interupt">Interrupted!</string>
+    <string name="job_wrong_key">- Right keyfile and encryption mode?\n- Is file GOST archive?</string>
+    <string name="job_decrypt_fail">Decrypting failed!</string>
+    <string name="job_compress_fail">Zipping failed!</string>
+    <string name="job_no_files">Add description or file.\nNothing to zip.</string>
+
+</resources>

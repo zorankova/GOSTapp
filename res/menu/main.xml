@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<item android:id="@+id/action_add"
+          android:title="Add"
+          android:showAsAction="always"
+    		android:icon="@drawable/_content_new_attachment"
+          android:visible="true" />
+    
+ 
+
+</menu>
